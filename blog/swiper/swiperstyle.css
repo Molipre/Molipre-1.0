@@ -189,6 +189,10 @@
   -webkit-box-orient: vertical;
   margin-bottom: 15px;
   line-height: 1.5em;
+  width: 100%;
+  display:block;
+  word-break: break-all;
+  word-wrap: break-word;
 }
 .blog-slider__button {
   display: inline-flex;
